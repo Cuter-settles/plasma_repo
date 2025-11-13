@@ -1,1 +1,2 @@
 Plasma is a decentralized scalability protocol enhancing blockchain performance through high-speed Layer-2 architecture and modular security layers. It provides a clean, extensible foundation for developers building efficient and secure applications.
+all inn
